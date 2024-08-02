@@ -7,7 +7,7 @@ I'm Zhangir, a high schooler from Kazakhstan who is passionate about ML, coding,
 
 - 🌱 I’m currently learning **Java Script, Flask and Advanced Python**
 
-- 💬 Ask me about **Pyhton, Pandas, Sickit-Learn, Torch, Hugging Face**
+- 💬 Ask me about **Python, Pandas, Sickit-Learn, Torch, Hugging Face**
 
 - 📫 How to reach me **Jangomeirbek1324@gmail.com**
 
