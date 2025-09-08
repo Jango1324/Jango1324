@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Meirbek Zhangir</h1>
 
 # 💫 About Me:
-I'm Zhangir, a high schooler from Kazakhstan who is passionate about ML, coding, web and Robotics!<br>Currently studying in UAE
+I'm Zhangir, I am a Compsci student at UBC (Freshman). 
 
-- 🔭 I’m currently working on **My Personal Website**
+- 🔭 I’m currently working on **Secret Project**
 
-- 🌱 I’m currently learning **Java Script, Flask and Advanced Python**
+- 🌱 I’m currently learning **Java, Flask and Advanced Python**
 
 - 💬 Ask me about **Python, Pandas, Sickit-Learn, Torch, Hugging Face**
 
