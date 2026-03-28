@@ -3,7 +3,7 @@
 # 💫 About Me:
 I'm Zhangir, I am a Compsci student at UBC (Freshman). 
 
-- 🔭 I’m currently working on **Somthing Cool**
+- 🔭 I’m currently working on **Modular GNSS Processing and Localization Toolkit with ROS2 Integration**
 
 - 🌱 I’m currently learning **Java, Flask and Advanced Python**
 
