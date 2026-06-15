@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meirbek Zhangir</h1>
 
 # 💫 About Me:
-I'm Zhangir, I am a Compsci student at UBC (Freshman). 
+I'm Zhangir, I am a Compsci student at UBC (Sophmore). 
 
 - 🔭 I’m currently working on **Modular GNSS Processing and Localization Toolkit with ROS2 Integration**
 
