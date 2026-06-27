@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Zhangir Meirbek
+# Hello World I'm Zhangir Meirbek
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Developer;QA+Engineer;ML+%26+AI+Enthusiast;Competitive+Programmer;Building+Cool+Things+Every+Day" />
 
