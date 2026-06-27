@@ -174,11 +174,11 @@ $ status
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhangir-meirbek-190624254/?skipRedirect=true)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
 
-[![Gmail](https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black)](mailto:Jangomeirbek1324@gmail.com)
 
 </div>
 
