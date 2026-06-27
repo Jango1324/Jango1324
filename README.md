@@ -109,15 +109,15 @@ const zhangir = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jango1324&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jango1324&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jango1324&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -127,7 +127,7 @@ const zhangir = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jango1324&theme=github-compact&hide_border=true"/>
 
 </div>
 
