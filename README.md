@@ -1,33 +1,193 @@
-<h1 align="center">Hi 👋, I'm Meirbek Zhangir</h1>
+<div align="center">
 
-# 💫 About Me:
-I'm Zhangir, I am a Compsci student at UBC (Sophmore). 
+# Hi there 👋 I'm Zhangir Meirbek
 
-- 🔭 I’m currently working on **Modular GNSS Processing and Localization Toolkit with ROS2 Integration**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Software+Developer;QA+Engineer;ML+%26+AI+Enthusiast;Competitive+Programmer;Building+Cool+Things+Every+Day" />
 
-- 🌱 I’m currently learning **Java, Flask and Advanced Python**
-
-- 💬 Ask me about **Python, Pandas, Sickit-Learn, Torch, Hugging Face**
-
-- 📫 How to reach me **Jangomeirbek1324@gmail.com**
-
-- ⚡ Fun fact **I play Cs 2 and Dota 2**
-  
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Junga or junga_zanj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meirbekzhangir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zhangir Meirbel) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ North-Marionberry-57) 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jango1324&label=Profile%20views&color=0e75b6&style=flat" alt="jango1324" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jango1324&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jango1324&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jango1324&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jango1324&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# developer.exe
+
+```javascript
+const zhangir = {
+    location: "Canada 🇨🇦",
+    education: "UBC Okanagan",
+    major: "Computer Science",
+
+    currentlyWorkingOn: [
+        "Mentoria",
+        "Competitive Programming",
+        "QA Engineering",
+        "ML & AI"
+    ],
+
+    languages: [
+        "Java",
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "SQL"
+    ],
+
+    frontend: [
+        "React",
+        "Next.js",
+        "HTML",
+        "CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Supabase",
+        "PostgreSQL"
+    ],
+
+    hardware: [
+        "Arduino",
+        "ESP32",
+        "Raspberry Pi"
+    ],
+
+    hobbies: [
+        "Blender",
+        "Game Development",
+        "Robotics",
+        "Hackathons"
+    ],
+
+    motto: "Build → Learn → Improve"
+}
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,next,nodejs,postgres,supabase,git,github,linux,arduino,raspberrypi,blender,vscode&perline=8"/>
+
+</div>
+
+---
+
+# 🚀 Current Goals
+
+```text
+██████████████████████░░░░  ICPC Preparation
+
+████████████████░░░░░░░░░░  ML & AI
+
+███████████████████░░░░░░░  Full Stack Development
+
+██████████████████████░░░░  QA Engineering
+
+█████████████████░░░░░░░░░  Hardware Projects
+```
+
+---
+
+# 📂 Current Projects
+
+💡 **Mentoria**
+> Student opportunity platform built with Next.js + Supabase.
+
+🎵 **Smart iPod**
+> Raspberry Pi + Arduino powered portable music player.
+
+🤖 **DIY Electronics**
+> ESP32, Arduino and Raspberry Pi projects.
+
+🏆 **ICPC Training**
+> Solving algorithmic problems every day.
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+```text
+✓ Java
+✓ Data Structures & Algorithms
+✓ PostgreSQL
+✓ Next.js
+✓ QA Testing
+✓ ML & AI
+✓ System Design
+```
+
+---
+
+# 💻 Terminal
+
+```bash
+$ whoami
+> Zhangir Meirbek
+
+$ university
+> University of British Columbia Okanagan
+
+$ interests
+> Software Development
+> QA Engineering
+> Machine Learning
+> Competitive Programming
+> Robotics
+> 3D Graphics
+
+$ status
+> Building projects...
+```
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
+
+[![Gmail](https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+### while(alive){ build(); learn(); improve(); }
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=footer"/>
+
+</div>
