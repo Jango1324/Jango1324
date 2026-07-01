@@ -14,7 +14,7 @@
 const zhangir = {
     location: "Canada 🇨🇦",
     education: "UBC Okanagan",
-    major: "Computer Science",
+    major: "Engineering",
 
     currentlyWorkingOn: [
         "Mentoria",
